@@ -6,8 +6,8 @@ body{
 }
 @font-face {
     font-family: 'sketsa-ramadhan-alternates';
-    src: url('sketsa-ramadhan-alternates.woff') format('woff'),
-         url('sketsa-ramadhan-alternates.woff') format('woff');
+    src: assets/sketsa-ramadhan-alternates.woff format('woff'),
+         assets/'sketsa-ramadhan-alternates.woff format('woff');
     font-weight: normal;
     font-style: normal;
     color: goldenrod;
